@@ -8,3 +8,13 @@ D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.csproj.CoreC
 D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.exe
 D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.pdb
 D:\01_Development\eke\git-example\DemoProject\obj\Debug\DemoProject.MainForm.resources
+C:\Users\akbul\OneDrive - TFBS EKE\Berufsschule\2APEC\INF_KART\Git\git-example\DemoProject\bin\Debug\DemoProject.exe.config
+C:\Users\akbul\OneDrive - TFBS EKE\Berufsschule\2APEC\INF_KART\Git\git-example\DemoProject\bin\Debug\DemoProject.exe
+C:\Users\akbul\OneDrive - TFBS EKE\Berufsschule\2APEC\INF_KART\Git\git-example\DemoProject\bin\Debug\DemoProject.pdb
+C:\Users\akbul\OneDrive - TFBS EKE\Berufsschule\2APEC\INF_KART\Git\git-example\DemoProject\obj\Debug\DemoProject.csproj.AssemblyReference.cache
+C:\Users\akbul\OneDrive - TFBS EKE\Berufsschule\2APEC\INF_KART\Git\git-example\DemoProject\obj\Debug\DemoProject.MainForm.resources
+C:\Users\akbul\OneDrive - TFBS EKE\Berufsschule\2APEC\INF_KART\Git\git-example\DemoProject\obj\Debug\DemoProject.Properties.Resources.resources
+C:\Users\akbul\OneDrive - TFBS EKE\Berufsschule\2APEC\INF_KART\Git\git-example\DemoProject\obj\Debug\DemoProject.csproj.GenerateResource.cache
+C:\Users\akbul\OneDrive - TFBS EKE\Berufsschule\2APEC\INF_KART\Git\git-example\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
+C:\Users\akbul\OneDrive - TFBS EKE\Berufsschule\2APEC\INF_KART\Git\git-example\DemoProject\obj\Debug\DemoProject.exe
+C:\Users\akbul\OneDrive - TFBS EKE\Berufsschule\2APEC\INF_KART\Git\git-example\DemoProject\obj\Debug\DemoProject.pdb
